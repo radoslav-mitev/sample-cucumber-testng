@@ -24,7 +24,6 @@ public class LoginStepDefs extends BaseClass {
     @Given("Launch Application")
     public void openApplication() {
         navigateToHome();
-
     }
     @Given("User opens login page")
     public void userOpensLoginPage() {

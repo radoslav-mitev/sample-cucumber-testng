@@ -28,7 +28,7 @@ public class LoginPage extends BaseClass{
     }
 
     public static void navigateToLoginPage(){
-        driver.navigate().to("http://tutorialsninja.com/demo/index.php?route=account/login");
+        driver.navigate().to("https://www.willhaben.at/iad");
     }
 
 }

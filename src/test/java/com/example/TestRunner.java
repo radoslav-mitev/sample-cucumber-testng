@@ -13,7 +13,4 @@ import io.cucumber.testng.CucumberOptions;
         tags = "@regression"
 )
 
-public class TestRunner extends AbstractTestNGCucumberTests {
-
-
-}
+public class TestRunner extends AbstractTestNGCucumberTests {}
